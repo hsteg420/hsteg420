@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hsteg420
-- 👀 I’m interested in Web Developing and Data Science
+- 👀 I’m interested in Web Development and Data Science
 
 <!---
 hsteg420/hsteg420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
