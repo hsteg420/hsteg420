@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @hsteg420
+- 👋 Hi, I’m Varsha Singh
 - 👀 I’m interested in Web Development and Data Science
+- Currently learning Reactjs
 
 <!---
 hsteg420/hsteg420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
