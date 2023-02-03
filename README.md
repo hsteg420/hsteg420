@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Backend(MERN stack)**
 
-- 📝 My distraction from long stretches of studying [https://shouts.site/author/vershas/](https://shouts.site/author/vershas/)
-
 - 📫 How to reach me **vershasingh366@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
